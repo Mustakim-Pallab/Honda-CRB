@@ -1,0 +1,26 @@
+
+
+#justify{
+    text-align: justify;
+}
+
+#justify h1{
+    font-size: 3.2em;
+}
+
+#justify p{
+    color: #E0E0E0;
+}
+
+.customize_background_header{
+    background-color: #264653;
+}
+
+#feturedbikes h1{
+    font-size: 3.2em;
+    font-weight: bold;
+}
+
+.grey{
+    filter: grayscale(100%);
+}
