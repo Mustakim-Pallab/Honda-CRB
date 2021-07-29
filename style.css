@@ -1,6 +1,10 @@
+/* for background color of the header section */
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.customize_background_header{
+    background-color: #264653;
+}
 
+/* justify text */
 #justify{
     text-align: justify;
 }
@@ -9,23 +13,25 @@
     color: #E0E0E0;
 }
 
-.customize_background_header{
-    background-color: #264653;
-}
 
+/* feature bike headline  */
 #feturedbikes h1{
     font-size: 3.2em;
     font-weight: bold;
-    /* font-family: 'Poppins', sans-serif; */
 }
+
+/* grayscalling image */
 
 .grey{
     filter: grayscale(100%);
 }
+
+/* span color */
 span{
     color:#E77C40;
 }
 
+/* fontawesome color */
 .fas{
     color:#E77C40;
 }
@@ -34,12 +40,13 @@ span{
     color:#E77C40;
 }
 
+/* happy client headings */
 #happyclients h1{
     
     font-family: 'Poppins', sans-serif;
 
 }
 
-#faq{
+#faq {
     font-family: 'Poppins', sans-serif;
 }
